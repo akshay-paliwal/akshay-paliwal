@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshay-paliwal
-- 👀 I’m interested in AI
+- 👀 I’m interested in Data & AI
 - 🌱 I’m currently a student at MSc Applied Sciences & Engineering: Computer Science (Artificial Intelligence)
 - 📫 How to reach me ... akshay.paliwal@pm.me
 
